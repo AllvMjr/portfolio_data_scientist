@@ -1,5 +1,5 @@
 # Portfolio Data Scientist
 
-## Hi threre
+## Hi there
 
 My portfolio the works with data science, Machine Learning, Deep Learning and IA Generative
